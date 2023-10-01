@@ -52,5 +52,5 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Navi Mumbai");
+  weather.fetchWeather("Bokaro");
   
